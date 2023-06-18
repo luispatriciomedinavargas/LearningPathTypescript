@@ -11,10 +11,8 @@
     //that is you define an arrow function
     //ts knows that this function by default return a string, 
     const arrowFunction1=()=>{
-        return "that is an arrow function";
+        return "that is  an arrow function";
     }
-
-
     //but also you can define that your arrow function return a string 
     const arrowFunction=():string=>{
         return "that is an arrow function";
