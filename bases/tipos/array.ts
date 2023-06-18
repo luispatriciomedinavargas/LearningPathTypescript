@@ -21,6 +21,8 @@
 
     const villans = ["Omega Red","Dormammu","green goblin"];
 
+    villans.forEach(v => console.log(v.toUpperCase()))
+
 
    
 })()
