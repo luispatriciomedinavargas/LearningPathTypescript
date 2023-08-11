@@ -54,7 +54,6 @@
 
     // console.log(wolverine);
     // wolverine.getFullNameDesdeXmen;
-
     //the gets looks like a property BUT IT IS NOT!
     // console.log(wolverine.fullnameWithOneGet)
     // wolverine.fullNameWithOneSet= "Patricio";
